@@ -32,3 +32,7 @@ console.log(animals);
  * Akhunbaev Kyrgyz State Medical Academy
  * Courses: HTML Academy
  * IT-Run school
+## Languages
+ * English: B1
+ * Chinese: Fluent
+ * Russian: Fluent
