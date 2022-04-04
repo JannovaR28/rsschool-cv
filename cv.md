@@ -14,3 +14,21 @@ I am very interested in coding web sites, but i would like to improve my skills.
  * VS Code
 ## Code Example
 ```
+const animals = ['pigs', 'goats', 'sheep'];
+
+const count = animals.push('cows');
+console.log(count);
+// expected output: 4
+console.log(animals);
+// expected output: Array ["pigs", "goats", "sheep", "cows"]
+
+animals.push('chickens', 'cats', 'dogs');
+console.log(animals);
+// expected output: Array ["pigs", "goats", "sheep", "cows", "chickens", "cats", "dogs"]
+```
+## Experience
+ * 6 month html & CSS coding
+## Education
+ * Akhunbaev Kyrgyz State Medical Academy
+ * Courses: HTML Academy
+ * IT-Run school
