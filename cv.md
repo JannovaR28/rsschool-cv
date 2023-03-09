@@ -18,7 +18,7 @@ And i hope that RSschool will help me to reach my goals.
 *CSS
 *JavaScript(basic)
 *Git, GitHub
-\*VScode
+*VScode
 
 ## Code Example
 
@@ -38,7 +38,7 @@ And i hope that RSschool will help me to reach my goals.
 
 ## Experiense
 
-\*6 month HTML & CSS coding
+*6 month HTML & CSS coding
 
 ## Education
 
