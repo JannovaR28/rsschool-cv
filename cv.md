@@ -44,10 +44,10 @@ And i hope that RSschool will help me to reach my goals.
 
 *Kyrgyz State Medical Academy
 *HTML Academy
-\*IT-Run school
+*IT-Run school
 
 ## Languages
 
 *English - intermediate
 *Kyrgyz - native
-\*Russian - fluent
+*Russian - fluent
